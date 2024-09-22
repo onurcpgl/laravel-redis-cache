@@ -2,7 +2,8 @@
 
 # Laravel Redis Cache
 
-Bu proje, Laravel uygulamamda Redis üzerinden cache kullanarak veri çekme ve veritabanından veri çekme işlemlerini göstermektedir. 
+Bu proje, Laravel uygulamamda Redis üzerinden cache kullanarak veri çekme ve veritabanından veri çekme işlemlerini göstermektedir.
+3000 veri üzerinden bu işlemler gerçekleştirilmiştir.
 Aşağıda bu işlemlerin detayları ve aralarındaki farkları resimler üzerinden görebilirsiniz.
 
 ![Cache ile Veri Çekme Süresi](https://raw.githubusercontent.com/onurcpgl/laravel-redis-cache/refs/heads/main/public/redis_img.JPG)
