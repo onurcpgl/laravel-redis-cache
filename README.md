@@ -5,5 +5,5 @@
 Bu proje, Laravel uygulamamda Redis üzerinden cache kullanarak veri çekme ve veritabanından veri çekme işlemlerini göstermektedir. 
 Aşağıda bu işlemlerin detayları ve aralarındaki farkları resimler üzerinden görebilirsiniz.
 
-![Cache ile Veri Çekme Süresi](https://raw.githubusercontent.com/onurcpgl/laravel-redis-cache/refs/heads/main/public/redis.JPG)
-![Veritabanından Veri Çekme Süresi](https://raw.githubusercontent.com/onurcpgl/laravel-redis-cache/refs/heads/main/public/database.JPG)
+![Cache ile Veri Çekme Süresi](https://raw.githubusercontent.com/onurcpgl/laravel-redis-cache/refs/heads/main/public/redis_img.JPG)
+![Veritabanından Veri Çekme Süresi](https://raw.githubusercontent.com/onurcpgl/laravel-redis-cache/refs/heads/main/public/database_img.JPG)
